@@ -1,6 +1,6 @@
 # readme.md
 # Pintoo-Kumar-Singh
-My Personal Repos..
+
 [![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif)]
 <h1 align="center">Hi 👋, I'm Pintoo Singh</h1>
 <h3 align="center">A Passionate Backend Developer from India</h3>
