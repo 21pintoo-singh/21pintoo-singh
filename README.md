@@ -1,4 +1,11 @@
-# Pintoo-Singh
+# Welcome to [Pintoo Singh](https://pin2singh.me/) profile! <a href="https://www.pin2singh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+<a href="https://www.linkedin.com/in/21pintoo-singh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://twitter.com/21pintoosingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/pin2singh.in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp;
 
 [![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif)]
 <h1 align="center">Hi 👋, I'm Pintoo Singh</h1>
@@ -7,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsoumya0985&label=Profile%20views&color=0e75b6&style=flat" alt="bsoumya0985" /> </p>
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **Software **
 
 - 🌱 I’m currently learning **MERN stack**
 
