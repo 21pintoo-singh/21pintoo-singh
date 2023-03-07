@@ -14,9 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsoumya0985&label=Profile%20views&color=0e75b6&style=flat" alt="bsoumya0985" /> </p>
 
-- 🔭 I’m currently working on **Software **
+- 🔭 I’m currently working on **Software Engineer **
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **JavaScript, NodeJS, MongoDB**
 
